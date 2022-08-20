@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d44297-2c64-4063-accd-ffdbf8af173f" name="Changes" comment="">
-      <changelist_data name="LinaGrajales" email="104029351+linagrag@users.noreply.github.com" />
+    <list default="true" id="99d44297-2c64-4063-accd-ffdbf8af173f" name="Changes" comment="Soy Cristian esta es mi branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LinaGrajales &lt;104029351+linagrag@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Master" />
@@ -46,6 +50,21 @@
       <updated>1660933262944</updated>
       <workItem from="1660933265504" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1660958710204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660958710204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Soy Cristian esta es mi branch">
+      <created>1660958799835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660958799835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +82,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Soy Cristian está es mi branch" />
+    <MESSAGE value="Soy Cristian esta es mi branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soy Cristian esta es mi branch" />
   </component>
 </project>
